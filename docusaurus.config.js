@@ -10,6 +10,10 @@ module.exports = {
   organizationName: 'risingsunomi', // Usually your GitHub org/user name.
   projectName: 'unityparty.xyz', // Usually your repo name.
   themeConfig: {
+    image: 'img/logo.png',
+    colorMode: {
+      defaultMode: 'dark'
+    },
     navbar: {
       title: 'UnityParty',
       logo: {
@@ -21,7 +25,7 @@ module.exports = {
           type: 'doc',
           docId: 'intro',
           position: 'left',
-          label: 'Who we are',
+          label: 'Who We Are',
         },
         {
           type: 'doc',
@@ -33,13 +37,43 @@ module.exports = {
           type: 'doc',
           docId: 'economicstrade',
           position: 'left',
-          label: 'Our Economic & Trade Policies'
+          label: 'Economic & Trade Policies'
         },
         {
           type: 'doc',
           docId: 'socialpolicy',
           position: 'left',
-          label: 'Our Social Policies'
+          label: 'Social Policies'
+        },
+        {
+          type: 'doc',
+          docId: 'criminaljustice',
+          position: 'left',
+          label: 'Criminal Justice Reform'
+        },
+        {
+          type: 'doc',
+          docId: 'indigenouspeoplepolicies',
+          position: 'left',
+          label: 'Indigenous Peoples Policies'
+        },
+        {
+          type: 'doc',
+          docId: 'foreignpolicy',
+          position: 'left',
+          label: 'Foreign Policies'
+        },
+        {
+          type: 'doc',
+          docId: 'environmentalpolicies',
+          position: 'left',
+          label: 'Environmental Policies'
+        },
+        {
+          type: 'doc',
+          docId: 'howunitypays',
+          position: 'left',
+          label: 'Funding Unity'
         },
         {
           href: 'https://github.com/risingsunomi/unitypartdev',
@@ -102,7 +136,7 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/risingsunomi/unitypartdev',
+            'https://github.com/risingsunomi/unitypartydev',
         },
         // blog: {
         //   showReadingTime: true,
