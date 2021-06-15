@@ -2,34 +2,11 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Who we are
 
-Let's discover **Docusaurus in less than 5 minutes**.
+![UnityLogo](../static/img/logo.png)
 
-## Getting Started
+<center><h2>“A Hammer in One Hand, A Rose in the Other”</h2></center>
+<br />
+Unity’s goal is to unite the left of the server from across the whole spectrum. We strive to form a united and stable opposition from the far-right wing of the server. Our goal is to strive to create exciting solutions that benefit the workers and enrich our society.
 
-Get started by **creating a new site**.
-
-Or **try Docusaurus immediately** with **[new.docusaurus.io](https://new.docusaurus.io)**.
-
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**:
-
-```shell
-npx @docusaurus/init@latest init my-website classic
-```
-
-## Start your site
-
-Run the development server:
-
-```shell
-cd my-website
-
-npx docusaurus start
-```
-
-Your site starts at `http://localhost:3000`.
-
-Open `docs/intro.md` and edit some lines: the site **reloads automatically** and display your changes.

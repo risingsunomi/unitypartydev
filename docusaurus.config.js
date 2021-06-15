@@ -14,19 +14,36 @@ module.exports = {
       title: 'UnityParty',
       logo: {
         alt: 'UPLogo',
-        src: 'img/logo.jpg',
+        src: 'img/logo.png',
       },
       items: [
         {
           type: 'doc',
           docId: 'intro',
           position: 'left',
-          label: 'Tutorial',
+          label: 'Who we are',
         },
-        {to: '/blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
-          label: 'GitHub',
+          type: 'doc',
+          docId: 'politics',
+          position: 'left',
+          label: 'Our Politics',
+        },
+        {
+          type: 'doc',
+          docId: 'economicstrade',
+          position: 'left',
+          label: 'Our Economic & Trade Policies'
+        },
+        {
+          type: 'doc',
+          docId: 'socialpolicy',
+          position: 'left',
+          label: 'Our Social Policies'
+        },
+        {
+          href: 'https://github.com/risingsunomi/unitypartdev',
+          label: 'Source',
           position: 'right',
         },
       ],
@@ -85,14 +102,14 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/',
+            'https://github.com/risingsunomi/unitypartdev',
         },
-        blog: {
-          showReadingTime: true,
-          // Please change this to your repo.
-          editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/blog/',
-        },
+        // blog: {
+        //   showReadingTime: true,
+        //   // Please change this to your repo.
+        //   editUrl:
+        //     'https://github.com/facebook/docusaurus/edit/master/website/blog/',
+        // },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
