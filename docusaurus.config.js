@@ -21,65 +21,65 @@ module.exports = {
         src: 'img/logo.png',
       },
       items: [
-        {
-          type: 'doc',
-          docId: 'intro',
-          position: 'left',
-          label: 'Who We Are',
-        },
-        {
-          type: 'doc',
-          docId: 'politics',
-          position: 'left',
-          label: 'Our Politics',
-        },
-        {
-          type: 'doc',
-          docId: 'economicstrade',
-          position: 'left',
-          label: 'Economic & Trade Policies'
-        },
-        {
-          type: 'doc',
-          docId: 'socialpolicy',
-          position: 'left',
-          label: 'Social Policies'
-        },
-        {
-          type: 'doc',
-          docId: 'criminaljustice',
-          position: 'left',
-          label: 'Criminal Justice Reform'
-        },
-        {
-          type: 'doc',
-          docId: 'indigenouspeoplepolicies',
-          position: 'left',
-          label: 'Indigenous Peoples Policies'
-        },
-        {
-          type: 'doc',
-          docId: 'foreignpolicy',
-          position: 'left',
-          label: 'Foreign Policies'
-        },
-        {
-          type: 'doc',
-          docId: 'environmentalpolicies',
-          position: 'left',
-          label: 'Environmental Policies'
-        },
-        {
-          type: 'doc',
-          docId: 'howunitypays',
-          position: 'left',
-          label: 'Funding Unity'
-        },
-        {
-          href: 'https://github.com/risingsunomi/unitypartdev',
-          label: 'Source',
-          position: 'right',
-        },
+        // {
+        //   type: 'doc',
+        //   docId: 'intro',
+        //   position: 'left',
+        //   label: 'Who We Are',
+        // },
+        // {
+        //   type: 'doc',
+        //   docId: 'politics',
+        //   position: 'left',
+        //   label: 'Politics',
+        // },
+        // {
+        //   type: 'doc',
+        //   docId: 'economicstrade',
+        //   position: 'left',
+        //   label: 'Economics'
+        // },
+        // {
+        //   type: 'doc',
+        //   docId: 'socialpolicy',
+        //   position: 'left',
+        //   label: 'Society'
+        // },
+        // {
+        //   type: 'doc',
+        //   docId: 'criminaljustice',
+        //   position: 'left',
+        //   label: 'Criminal Justice'
+        // },
+        // {
+        //   type: 'doc',
+        //   docId: 'indigenouspeoplepolicies',
+        //   position: 'left',
+        //   label: 'Indigenous'
+        // },
+        // {
+        //   type: 'doc',
+        //   docId: 'foreignpolicy',
+        //   position: 'left',
+        //   label: 'Foreign Policy'
+        // },
+        // {
+        //   type: 'doc',
+        //   docId: 'environmentalpolicies',
+        //   position: 'left',
+        //   label: 'Environment'
+        // },
+        // {
+        //   type: 'doc',
+        //   docId: 'howunitypays',
+        //   position: 'left',
+        //   label: 'How We Unify'
+        // },
+        // {
+        //   href: 'https://github.com/risingsunomi/unitypartdev',
+        //   label: 'Source',
+        //   position: 'right',
+        // },
       ],
     },
     footer: {
@@ -88,10 +88,6 @@ module.exports = {
         {
           title: 'Community',
           items: [
-            {
-              label: 'Unity Party Discord',
-              href: '',
-            },
             {
               label: 'Politics Discord',
               href: 'https://politics.gg',

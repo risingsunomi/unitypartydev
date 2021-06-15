@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Who we are
+# Who We Are
 
 ![UnityLogo](../static/img/logo.png)
 
