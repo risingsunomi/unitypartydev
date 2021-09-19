@@ -30,3 +30,12 @@ Veterans have been left out in the cold for too many years now after fighting in
 
 ## Right to Education
 The right to a quality education should be the right of all people. Unity will pursue universal pre-k/child education as well as a minimum of 2 years of community college.
+
+## UBI
+Unity will pursue a universal basic income
+
+## Maternity Leave
+The right of a mothers maternity leave should be a human right. We will ensure the right to 18 weeks paid maternal leave then a minimum of 2 years paid parental leave shared between the parents.
+
+# 4 Day Work Week
+Unity will enact a 4 day work week on all businesses. This will be giving time back to people from the life of constant work we have now.

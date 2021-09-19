@@ -8,7 +8,7 @@ const FeatureList = [
     Svg: require('../../static/img/hands2.svg').default,
     description: (
       <>
-        Unity’s goal is to unite the left of the Politics.gg discord server from across the whole spectrum.
+        Unity’s goal is to unite the left of the server from across the whole spectrum.
       </>
     ),
   },

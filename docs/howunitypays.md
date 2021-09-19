@@ -114,7 +114,7 @@ All of these revenue streams together come out to $2.954 trillion dollars. The p
   - American families would incur $3,400 more in disposable income each year (about $9 each day).
 
 ### Healthcare Spending
-**NOTE: My $1.2 trillion number for Medicare for All accounts for replacing people’s private health insurance and insuring the uninsured. We already publicly finance around two-thirds of our healthcare through federal, state, and local taxes.**<br />[Source](https://www.americanactionforum.org/weekly-checkup/nearly-two-thirds-u-s-health-care-costs-financed-taxpayers/)
+**NOTE: The $1.2 trillion number for Medicare for All accounts for replacing people’s private health insurance and insuring the uninsured. We already publicly finance around two-thirds of our healthcare through federal, state, and local taxes.**<br />[Source](https://www.americanactionforum.org/weekly-checkup/nearly-two-thirds-u-s-health-care-costs-financed-taxpayers/)
 
 In 2017, the U.S’s total healthcare spending was around $3.5 trillion.<br />[Source](https://www.cms.gov/research-statistics-data-and-systems/statistics-trends-and-reports/nationalhealthexpenddata/nhe-fact-sheet.html)
 

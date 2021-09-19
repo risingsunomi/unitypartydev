@@ -89,8 +89,8 @@ module.exports = {
           title: 'Community',
           items: [
             {
-              label: 'Politics Discord',
-              href: 'https://politics.gg',
+              label: 'Discord Politics',
+              href: 'https://discord.gg/dp-atlantica',
             }
           ],
         },
